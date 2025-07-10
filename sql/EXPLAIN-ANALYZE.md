@@ -1,0 +1,3 @@
+# EXPLAIN ANALYZE
+
+- Jul 10: gotcha on EXPLAIN ANALYZE
