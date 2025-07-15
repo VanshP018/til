@@ -1,3 +1,4 @@
 # train/test leakage
 
 - Jul 11: example on train/test leakage
+- Jul 15: tip on train/test leakage
