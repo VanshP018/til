@@ -1,3 +1,4 @@
 # cherry-pick
 
 - Jul 13: example on cherry-pick
+- Jul 16: note on cherry-pick
