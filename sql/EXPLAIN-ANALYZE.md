@@ -1,3 +1,4 @@
 # EXPLAIN ANALYZE
 
 - Jul 10: gotcha on EXPLAIN ANALYZE
+- Jul 18: link on EXPLAIN ANALYZE
