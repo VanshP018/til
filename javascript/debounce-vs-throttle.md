@@ -3,3 +3,4 @@
 - Jul 13: link on debounce vs throttle
 - Jul 18: note on debounce vs throttle
 - Jul 28: link on debounce vs throttle
+- Aug 03: gotcha on debounce vs throttle
