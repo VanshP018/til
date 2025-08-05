@@ -1,3 +1,4 @@
 # git stash
 
 - Jul 15: example on git stash
+- Aug 05: gotcha on git stash
