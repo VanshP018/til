@@ -4,3 +4,4 @@
 - Jul 13: example on grid auto-fit
 - Aug 12: tip on grid auto-fit
 - Aug 12: example on grid auto-fit
+- Aug 15: note on grid auto-fit
