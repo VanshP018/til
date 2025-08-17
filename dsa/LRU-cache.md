@@ -4,3 +4,4 @@
 - Aug 13: note on LRU cache
 - Aug 15: note on LRU cache
 - Aug 17: example on LRU cache
+- Aug 17: note on LRU cache
