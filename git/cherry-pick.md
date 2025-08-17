@@ -5,3 +5,4 @@
 - Jul 18: note on cherry-pick
 - Jul 28: link on cherry-pick
 - Aug 12: gotcha on cherry-pick
+- Aug 17: example on cherry-pick
