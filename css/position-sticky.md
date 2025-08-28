@@ -5,3 +5,4 @@
 - Jul 15: tip on position sticky
 - Aug 12: link on position sticky
 - Aug 13: note on position sticky
+- Aug 28: gotcha on position sticky
