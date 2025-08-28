@@ -8,3 +8,4 @@
 - Aug 11: tip on chmod basics
 - Aug 15: gotcha on chmod basics
 - Aug 15: gotcha on chmod basics
+- Aug 28: gotcha on chmod basics
