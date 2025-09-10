@@ -2,3 +2,4 @@
 
 - Aug 19: tip on standard scaling
 - Sep 10: gotcha on standard scaling
+- Sep 10: link on standard scaling
