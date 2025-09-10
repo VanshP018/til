@@ -4,3 +4,4 @@
 - Jul 12: example on gradient descent intuition
 - Jul 12: example on gradient descent intuition
 - Jul 20: tip on gradient descent intuition
+- Sep 10: note on gradient descent intuition
