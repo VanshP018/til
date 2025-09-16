@@ -3,3 +3,4 @@
 - Jul 15: example on git stash
 - Aug 05: gotcha on git stash
 - Aug 15: note on git stash
+- Sep 16: link on git stash
