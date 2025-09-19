@@ -4,3 +4,4 @@
 - Aug 14: link on generators
 - Aug 15: gotcha on generators
 - Sep 10: link on generators
+- Sep 19: gotcha on generators
