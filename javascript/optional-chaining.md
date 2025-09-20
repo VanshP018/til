@@ -6,3 +6,4 @@
 - Aug 15: link on optional chaining
 - Aug 15: link on optional chaining
 - Sep 12: link on optional chaining
+- Sep 20: link on optional chaining
