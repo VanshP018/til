@@ -6,3 +6,4 @@
 - Jul 31: tip on LEFT JOIN nulls
 - Aug 12: note on LEFT JOIN nulls
 - Sep 09: example on LEFT JOIN nulls
+- Sep 25: example on LEFT JOIN nulls
