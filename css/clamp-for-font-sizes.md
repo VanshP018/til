@@ -10,3 +10,4 @@
 - Aug 15: gotcha on clamp() for font sizes
 - Aug 17: tip on clamp() for font sizes
 - Sep 04: example on clamp() for font sizes
+- Sep 27: example on clamp() for font sizes
