@@ -6,3 +6,4 @@
 - Aug 13: example on confusion matrix
 - Sep 10: example on confusion matrix
 - Sep 12: example on confusion matrix
+- Sep 30: gotcha on confusion matrix
