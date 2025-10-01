@@ -10,3 +10,4 @@
 - Aug 15: gotcha on chmod basics
 - Aug 28: gotcha on chmod basics
 - Sep 10: link on chmod basics
+- Oct 01: gotcha on chmod basics
