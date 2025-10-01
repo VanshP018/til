@@ -7,3 +7,4 @@
 - Sep 18: tip on git stash
 - Sep 29: note on git stash
 - Oct 01: gotcha on git stash
+- Oct 01: gotcha on git stash
