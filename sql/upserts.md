@@ -6,3 +6,4 @@
 - Aug 13: tip on upserts
 - Aug 28: note on upserts
 - Sep 07: example on upserts
+- Oct 03: note on upserts
