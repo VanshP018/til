@@ -5,3 +5,4 @@
 - Sep 07: note on array.reduce tricks
 - Oct 01: note on array.reduce tricks
 - Oct 03: tip on array.reduce tricks
+- Oct 03: example on array.reduce tricks
