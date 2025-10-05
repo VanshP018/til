@@ -7,3 +7,4 @@
 - Aug 12: gotcha on cherry-pick
 - Aug 17: example on cherry-pick
 - Oct 02: gotcha on cherry-pick
+- Oct 05: tip on cherry-pick
