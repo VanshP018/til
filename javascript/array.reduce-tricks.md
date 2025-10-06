@@ -6,3 +6,4 @@
 - Oct 01: note on array.reduce tricks
 - Oct 03: tip on array.reduce tricks
 - Oct 03: example on array.reduce tricks
+- Oct 06: example on array.reduce tricks
