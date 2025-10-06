@@ -8,3 +8,4 @@
 - Sep 12: link on optional chaining
 - Sep 20: link on optional chaining
 - Sep 22: link on optional chaining
+- Oct 06: note on optional chaining
