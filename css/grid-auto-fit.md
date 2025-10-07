@@ -8,3 +8,4 @@
 - Sep 10: gotcha on grid auto-fit
 - Sep 25: link on grid auto-fit
 - Oct 01: note on grid auto-fit
+- Oct 07: example on grid auto-fit
