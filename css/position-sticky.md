@@ -7,3 +7,4 @@
 - Aug 13: note on position sticky
 - Aug 28: gotcha on position sticky
 - Sep 20: gotcha on position sticky
+- Oct 07: note on position sticky
