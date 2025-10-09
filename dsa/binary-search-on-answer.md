@@ -5,3 +5,4 @@
 - Aug 05: note on binary search on answer
 - Aug 13: example on binary search on answer
 - Aug 14: example on binary search on answer
+- Oct 09: example on binary search on answer
