@@ -8,3 +8,4 @@
 - Oct 03: example on array.reduce tricks
 - Oct 06: example on array.reduce tricks
 - Oct 07: link on array.reduce tricks
+- Oct 09: link on array.reduce tricks
