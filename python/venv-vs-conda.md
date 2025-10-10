@@ -5,3 +5,4 @@
 - Aug 17: note on venv vs conda
 - Sep 07: tip on venv vs conda
 - Sep 20: note on venv vs conda
+- Oct 10: gotcha on venv vs conda
