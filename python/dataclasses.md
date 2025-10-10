@@ -6,3 +6,4 @@
 - Aug 19: tip on dataclasses
 - Sep 10: link on dataclasses
 - Oct 03: link on dataclasses
+- Oct 10: tip on dataclasses
