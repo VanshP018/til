@@ -5,3 +5,4 @@
 - Jul 17: link on tmux shortcuts
 - Aug 06: note on tmux shortcuts
 - Oct 01: gotcha on tmux shortcuts
+- Oct 10: gotcha on tmux shortcuts
