@@ -10,3 +10,4 @@
 - Oct 01: note on grid auto-fit
 - Oct 07: example on grid auto-fit
 - Oct 08: note on grid auto-fit
+- Oct 10: gotcha on grid auto-fit
