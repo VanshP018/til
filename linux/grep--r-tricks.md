@@ -4,3 +4,4 @@
 - Aug 17: link on grep -r tricks
 - Sep 25: tip on grep -r tricks
 - Oct 04: example on grep -r tricks
+- Oct 11: example on grep -r tricks
