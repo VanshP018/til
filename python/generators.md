@@ -6,3 +6,4 @@
 - Sep 10: link on generators
 - Sep 19: gotcha on generators
 - Oct 08: note on generators
+- Oct 11: note on generators
