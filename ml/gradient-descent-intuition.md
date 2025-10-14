@@ -7,3 +7,4 @@
 - Sep 10: note on gradient descent intuition
 - Oct 14: note on gradient descent intuition
 - Oct 14: example on gradient descent intuition
+- Oct 14: example on gradient descent intuition
