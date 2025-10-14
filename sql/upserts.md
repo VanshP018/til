@@ -7,3 +7,4 @@
 - Aug 28: note on upserts
 - Sep 07: example on upserts
 - Oct 03: note on upserts
+- Oct 14: gotcha on upserts
