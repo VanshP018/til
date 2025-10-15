@@ -14,3 +14,4 @@
 - Oct 12: example on grid auto-fit
 - Oct 14: gotcha on grid auto-fit
 - Oct 14: tip on grid auto-fit
+- Oct 15: gotcha on grid auto-fit
