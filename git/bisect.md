@@ -6,3 +6,4 @@
 - Aug 28: gotcha on bisect
 - Sep 22: example on bisect
 - Oct 16: link on bisect
+- Oct 16: link on bisect
