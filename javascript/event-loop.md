@@ -2,3 +2,4 @@
 
 - Jul 18: tip on event loop
 - Sep 12: tip on event loop
+- Oct 21: example on event loop
