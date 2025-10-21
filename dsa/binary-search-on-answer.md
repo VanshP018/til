@@ -7,3 +7,4 @@
 - Aug 14: example on binary search on answer
 - Oct 09: example on binary search on answer
 - Oct 15: example on binary search on answer
+- Oct 21: example on binary search on answer
