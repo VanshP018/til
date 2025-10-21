@@ -5,3 +5,4 @@
 - Aug 15: gotcha on GROUP BY gotchas
 - Aug 18: tip on GROUP BY gotchas
 - Sep 27: note on GROUP BY gotchas
+- Oct 21: gotcha on GROUP BY gotchas
