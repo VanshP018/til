@@ -5,3 +5,4 @@
 - Jul 31: example on train/test leakage
 - Sep 07: note on train/test leakage
 - Sep 12: tip on train/test leakage
+- Oct 21: example on train/test leakage
