@@ -8,3 +8,4 @@
 - Sep 12: example on confusion matrix
 - Sep 30: gotcha on confusion matrix
 - Oct 10: tip on confusion matrix
+- Oct 24: tip on confusion matrix
