@@ -8,3 +8,4 @@
 - Sep 09: example on LEFT JOIN nulls
 - Sep 25: example on LEFT JOIN nulls
 - Oct 13: example on LEFT JOIN nulls
+- Oct 28: note on LEFT JOIN nulls
