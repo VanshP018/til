@@ -8,3 +8,4 @@
 - Oct 10: gotcha on tmux shortcuts
 - Oct 16: link on tmux shortcuts
 - Oct 20: tip on tmux shortcuts
+- Nov 21: link on tmux shortcuts
