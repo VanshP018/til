@@ -9,3 +9,4 @@
 - Oct 10: example on debounce vs throttle
 - Oct 24: note on debounce vs throttle
 - Nov 11: gotcha on debounce vs throttle
+- Nov 21: gotcha on debounce vs throttle
