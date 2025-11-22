@@ -7,3 +7,4 @@
 - Sep 22: example on bisect
 - Oct 16: link on bisect
 - Oct 16: link on bisect
+- Nov 22: note on bisect
