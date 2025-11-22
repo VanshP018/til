@@ -15,3 +15,4 @@
 - Oct 08: link on clamp() for font sizes
 - Oct 11: example on clamp() for font sizes
 - Nov 22: example on clamp() for font sizes
+- Nov 22: link on clamp() for font sizes
