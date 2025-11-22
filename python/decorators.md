@@ -6,3 +6,4 @@
 - Sep 12: gotcha on decorators
 - Sep 22: link on decorators
 - Oct 16: note on decorators
+- Nov 22: link on decorators
