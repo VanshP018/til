@@ -10,3 +10,4 @@
 - Oct 01: gotcha on git stash
 - Oct 03: example on git stash
 - Oct 16: link on git stash
+- Nov 22: example on git stash
