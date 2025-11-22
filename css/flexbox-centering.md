@@ -5,3 +5,4 @@
 - Oct 05: note on flexbox centering
 - Oct 14: link on flexbox centering
 - Nov 04: link on flexbox centering
+- Nov 22: tip on flexbox centering
