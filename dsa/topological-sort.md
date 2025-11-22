@@ -3,3 +3,4 @@
 - Oct 13: tip on topological sort
 - Oct 19: example on topological sort
 - Oct 22: gotcha on topological sort
+- Nov 22: gotcha on topological sort
