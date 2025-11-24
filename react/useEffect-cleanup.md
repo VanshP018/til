@@ -6,3 +6,4 @@
 - Aug 15: link on useEffect cleanup
 - Aug 28: note on useEffect cleanup
 - Sep 30: link on useEffect cleanup
+- Nov 24: gotcha on useEffect cleanup
