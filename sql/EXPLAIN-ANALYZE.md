@@ -7,3 +7,4 @@
 - Oct 19: link on EXPLAIN ANALYZE
 - Nov 05: example on EXPLAIN ANALYZE
 - Nov 22: tip on EXPLAIN ANALYZE
+- Nov 24: example on EXPLAIN ANALYZE
