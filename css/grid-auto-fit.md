@@ -16,3 +16,4 @@
 - Oct 14: tip on grid auto-fit
 - Oct 15: gotcha on grid auto-fit
 - Oct 15: tip on grid auto-fit
+- Nov 26: tip on grid auto-fit
