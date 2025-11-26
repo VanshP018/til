@@ -9,3 +9,4 @@
 - Oct 15: example on binary search on answer
 - Oct 21: example on binary search on answer
 - Nov 10: example on binary search on answer
+- Nov 26: note on binary search on answer
