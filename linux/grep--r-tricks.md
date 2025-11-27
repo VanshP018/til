@@ -8,3 +8,4 @@
 - Oct 24: example on grep -r tricks
 - Oct 30: gotcha on grep -r tricks
 - Nov 22: link on grep -r tricks
+- Nov 27: link on grep -r tricks
