@@ -8,3 +8,4 @@
 - Oct 16: note on decorators
 - Nov 22: link on decorators
 - Nov 22: link on decorators
+- Nov 28: link on decorators
