@@ -8,3 +8,4 @@
 - Oct 16: link on bisect
 - Oct 16: link on bisect
 - Nov 22: note on bisect
+- Nov 28: tip on bisect
