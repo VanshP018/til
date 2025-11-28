@@ -8,3 +8,4 @@
 - Oct 03: link on dataclasses
 - Oct 10: tip on dataclasses
 - Oct 14: note on dataclasses
+- Nov 28: gotcha on dataclasses
