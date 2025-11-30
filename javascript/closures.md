@@ -6,3 +6,4 @@
 - Sep 30: gotcha on closures
 - Oct 05: link on closures
 - Oct 21: gotcha on closures
+- Nov 30: example on closures
