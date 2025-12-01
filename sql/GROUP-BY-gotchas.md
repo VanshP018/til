@@ -7,3 +7,4 @@
 - Sep 27: note on GROUP BY gotchas
 - Oct 21: gotcha on GROUP BY gotchas
 - Nov 26: gotcha on GROUP BY gotchas
+- Dec 01: example on GROUP BY gotchas
