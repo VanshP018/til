@@ -5,3 +5,4 @@
 - Sep 22: gotcha on CTEs
 - Nov 28: example on CTEs
 - Nov 28: gotcha on CTEs
+- Dec 03: link on CTEs
