@@ -11,3 +11,4 @@
 - Oct 03: example on git stash
 - Oct 16: link on git stash
 - Nov 22: example on git stash
+- Dec 08: note on git stash
