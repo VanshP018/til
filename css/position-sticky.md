@@ -11,3 +11,4 @@
 - Oct 17: link on position sticky
 - Nov 22: gotcha on position sticky
 - Dec 05: link on position sticky
+- Dec 10: gotcha on position sticky
