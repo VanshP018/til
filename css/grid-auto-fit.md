@@ -18,3 +18,4 @@
 - Oct 15: tip on grid auto-fit
 - Nov 26: tip on grid auto-fit
 - Nov 28: link on grid auto-fit
+- Dec 10: note on grid auto-fit
