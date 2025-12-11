@@ -9,3 +9,4 @@
 - Sep 14: link on prefix sums
 - Nov 28: link on prefix sums
 - Dec 05: example on prefix sums
+- Dec 11: note on prefix sums
