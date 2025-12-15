@@ -6,3 +6,4 @@
 - Nov 28: example on CTEs
 - Nov 28: gotcha on CTEs
 - Dec 03: link on CTEs
+- Dec 15: tip on CTEs
