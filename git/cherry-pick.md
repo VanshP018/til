@@ -9,3 +9,4 @@
 - Oct 02: gotcha on cherry-pick
 - Oct 05: tip on cherry-pick
 - Oct 16: example on cherry-pick
+- Dec 15: note on cherry-pick
