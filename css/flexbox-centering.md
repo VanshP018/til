@@ -8,3 +8,4 @@
 - Nov 22: tip on flexbox centering
 - Nov 28: note on flexbox centering
 - Dec 11: link on flexbox centering
+- Dec 16: tip on flexbox centering
