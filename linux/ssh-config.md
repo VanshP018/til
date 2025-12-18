@@ -6,3 +6,4 @@
 - Sep 20: link on ssh config
 - Nov 10: tip on ssh config
 - Dec 15: gotcha on ssh config
+- Dec 18: gotcha on ssh config
