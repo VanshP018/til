@@ -9,3 +9,4 @@
 - Nov 22: link on decorators
 - Nov 22: link on decorators
 - Nov 28: link on decorators
+- Dec 18: tip on decorators
