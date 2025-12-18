@@ -13,3 +13,4 @@
 - Oct 10: link on optional chaining
 - Nov 21: example on optional chaining
 - Dec 03: link on optional chaining
+- Dec 18: example on optional chaining
