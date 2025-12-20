@@ -6,3 +6,4 @@
 - Nov 10: gotcha on promises vs async/await
 - Nov 11: note on promises vs async/await
 - Nov 24: link on promises vs async/await
+- Dec 20: gotcha on promises vs async/await
