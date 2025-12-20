@@ -11,3 +11,4 @@
 - Nov 28: link on decorators
 - Dec 18: tip on decorators
 - Dec 20: note on decorators
+- Dec 20: note on decorators
