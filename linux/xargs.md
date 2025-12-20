@@ -4,3 +4,4 @@
 - Jul 17: note on xargs
 - Jul 20: gotcha on xargs
 - Dec 01: note on xargs
+- Dec 20: link on xargs
