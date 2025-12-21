@@ -7,3 +7,4 @@
 - Nov 28: gotcha on CTEs
 - Dec 03: link on CTEs
 - Dec 15: tip on CTEs
+- Dec 21: tip on CTEs
