@@ -10,3 +10,4 @@
 - Dec 03: tip on LRU cache
 - Dec 16: note on LRU cache
 - Dec 18: gotcha on LRU cache
+- Dec 23: example on LRU cache
