@@ -6,3 +6,4 @@
 - Oct 21: note on interactive rebase
 - Oct 24: link on interactive rebase
 - Dec 10: link on interactive rebase
+- Dec 24: link on interactive rebase
