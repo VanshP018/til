@@ -4,3 +4,4 @@
 - Oct 19: example on topological sort
 - Oct 22: gotcha on topological sort
 - Nov 22: gotcha on topological sort
+- Dec 25: gotcha on topological sort
