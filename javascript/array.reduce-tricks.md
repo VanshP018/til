@@ -10,3 +10,4 @@
 - Oct 07: link on array.reduce tricks
 - Oct 09: link on array.reduce tricks
 - Dec 15: note on array.reduce tricks
+- Dec 26: gotcha on array.reduce tricks
