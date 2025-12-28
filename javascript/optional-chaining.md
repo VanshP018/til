@@ -17,3 +17,4 @@
 - Dec 18: link on optional chaining
 - Dec 23: note on optional chaining
 - Dec 28: note on optional chaining
+- Dec 28: note on optional chaining
