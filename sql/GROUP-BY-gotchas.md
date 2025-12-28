@@ -8,3 +8,4 @@
 - Oct 21: gotcha on GROUP BY gotchas
 - Nov 26: gotcha on GROUP BY gotchas
 - Dec 01: example on GROUP BY gotchas
+- Dec 28: example on GROUP BY gotchas
