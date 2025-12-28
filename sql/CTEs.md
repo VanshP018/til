@@ -8,3 +8,4 @@
 - Dec 03: link on CTEs
 - Dec 15: tip on CTEs
 - Dec 21: tip on CTEs
+- Dec 28: note on CTEs
