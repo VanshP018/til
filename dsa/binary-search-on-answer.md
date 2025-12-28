@@ -12,3 +12,4 @@
 - Nov 26: note on binary search on answer
 - Dec 18: tip on binary search on answer
 - Dec 24: note on binary search on answer
+- Dec 28: tip on binary search on answer
