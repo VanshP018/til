@@ -9,3 +9,4 @@
 - Nov 30: example on closures
 - Dec 15: gotcha on closures
 - Dec 22: example on closures
+- Dec 28: gotcha on closures
