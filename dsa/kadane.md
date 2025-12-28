@@ -7,3 +7,4 @@
 - Oct 17: note on kadane
 - Nov 30: gotcha on kadane
 - Dec 25: tip on kadane
+- Dec 28: tip on kadane
