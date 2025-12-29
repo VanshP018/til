@@ -12,3 +12,4 @@
 - Dec 18: example on upserts
 - Dec 25: note on upserts
 - Dec 26: note on upserts
+- Dec 29: link on upserts
