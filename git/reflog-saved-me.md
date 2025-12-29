@@ -9,3 +9,4 @@
 - Nov 24: note on reflog saved me
 - Dec 05: note on reflog saved me
 - Dec 15: note on reflog saved me
+- Dec 29: gotcha on reflog saved me
