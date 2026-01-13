@@ -7,3 +7,4 @@
 - Dec 04: example on f-string formatting
 - Dec 10: note on f-string formatting
 - Dec 28: tip on f-string formatting
+- Jan 13: note on f-string formatting
