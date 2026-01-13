@@ -9,3 +9,4 @@
 - Nov 24: gotcha on useEffect cleanup
 - Dec 03: link on useEffect cleanup
 - Dec 05: link on useEffect cleanup
+- Jan 13: gotcha on useEffect cleanup
