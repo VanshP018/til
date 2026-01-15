@@ -10,3 +10,4 @@
 - Nov 22: note on bisect
 - Nov 28: tip on bisect
 - Dec 19: link on bisect
+- Jan 15: gotcha on bisect
