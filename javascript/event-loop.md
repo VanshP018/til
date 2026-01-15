@@ -6,3 +6,4 @@
 - Nov 28: example on event loop
 - Dec 26: gotcha on event loop
 - Jan 13: note on event loop
+- Jan 15: example on event loop
