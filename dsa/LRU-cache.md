@@ -11,3 +11,4 @@
 - Dec 16: note on LRU cache
 - Dec 18: gotcha on LRU cache
 - Dec 23: example on LRU cache
+- Jan 15: example on LRU cache
