@@ -6,3 +6,4 @@
 - Oct 13: gotcha on memo and useCallback
 - Oct 14: tip on memo and useCallback
 - Oct 22: link on memo and useCallback
+- Jan 16: note on memo and useCallback
