@@ -7,3 +7,4 @@
 - Oct 25: tip on keys in lists
 - Nov 27: note on keys in lists
 - Dec 23: tip on keys in lists
+- Jan 22: gotcha on keys in lists
