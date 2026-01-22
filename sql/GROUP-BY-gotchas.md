@@ -10,3 +10,4 @@
 - Dec 01: example on GROUP BY gotchas
 - Dec 28: example on GROUP BY gotchas
 - Jan 12: link on GROUP BY gotchas
+- Jan 22: link on GROUP BY gotchas
