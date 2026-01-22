@@ -13,3 +13,4 @@
 - Nov 22: example on git stash
 - Dec 08: note on git stash
 - Dec 15: gotcha on git stash
+- Jan 22: tip on git stash
