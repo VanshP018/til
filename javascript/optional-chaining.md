@@ -18,3 +18,4 @@
 - Dec 23: note on optional chaining
 - Dec 28: note on optional chaining
 - Dec 28: note on optional chaining
+- Jan 22: gotcha on optional chaining
