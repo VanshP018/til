@@ -11,3 +11,4 @@
 - Oct 28: note on LEFT JOIN nulls
 - Nov 22: example on LEFT JOIN nulls
 - Dec 13: link on LEFT JOIN nulls
+- Jan 22: tip on LEFT JOIN nulls
