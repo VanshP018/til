@@ -6,3 +6,4 @@
 - Dec 08: example on standard scaling
 - Dec 23: example on standard scaling
 - Dec 29: gotcha on standard scaling
+- Jan 22: tip on standard scaling
