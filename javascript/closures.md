@@ -11,3 +11,4 @@
 - Dec 22: example on closures
 - Dec 28: gotcha on closures
 - Dec 31: note on closures
+- Jan 22: tip on closures
