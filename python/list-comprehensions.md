@@ -6,3 +6,4 @@
 - Dec 05: gotcha on list comprehensions
 - Dec 06: example on list comprehensions
 - Jan 08: example on list comprehensions
+- Jan 22: link on list comprehensions
