@@ -8,3 +8,4 @@
 - Dec 21: note on xargs
 - Dec 28: gotcha on xargs
 - Jan 12: note on xargs
+- Jan 23: example on xargs
