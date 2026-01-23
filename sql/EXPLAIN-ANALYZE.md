@@ -10,3 +10,4 @@
 - Nov 24: example on EXPLAIN ANALYZE
 - Nov 27: example on EXPLAIN ANALYZE
 - Nov 28: example on EXPLAIN ANALYZE
+- Jan 23: tip on EXPLAIN ANALYZE
