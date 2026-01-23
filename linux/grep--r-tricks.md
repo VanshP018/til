@@ -9,3 +9,4 @@
 - Oct 30: gotcha on grep -r tricks
 - Nov 22: link on grep -r tricks
 - Nov 27: link on grep -r tricks
+- Jan 23: example on grep -r tricks
