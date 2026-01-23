@@ -9,3 +9,4 @@
 - Dec 18: gotcha on ssh config
 - Dec 28: link on ssh config
 - Jan 22: gotcha on ssh config
+- Jan 23: gotcha on ssh config
