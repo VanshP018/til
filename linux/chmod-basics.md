@@ -20,3 +20,4 @@
 - Dec 10: link on chmod basics
 - Jan 22: note on chmod basics
 - Jan 22: tip on chmod basics
+- Jan 24: note on chmod basics
