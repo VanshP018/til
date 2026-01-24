@@ -8,3 +8,4 @@
 - Aug 17: tip on context vs props
 - Dec 04: link on context vs props
 - Jan 23: gotcha on context vs props
+- Jan 24: gotcha on context vs props
