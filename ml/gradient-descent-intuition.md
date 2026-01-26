@@ -11,3 +11,4 @@
 - Nov 22: link on gradient descent intuition
 - Nov 27: gotcha on gradient descent intuition
 - Dec 28: example on gradient descent intuition
+- Jan 26: note on gradient descent intuition
