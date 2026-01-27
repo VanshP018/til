@@ -13,3 +13,4 @@
 - Nov 22: gotcha on debounce vs throttle
 - Dec 26: link on debounce vs throttle
 - Jan 12: tip on debounce vs throttle
+- Jan 27: gotcha on debounce vs throttle
