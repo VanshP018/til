@@ -13,3 +13,4 @@
 - Dec 25: note on upserts
 - Dec 26: note on upserts
 - Dec 29: link on upserts
+- Jan 29: example on upserts
