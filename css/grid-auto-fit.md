@@ -21,3 +21,4 @@
 - Dec 10: note on grid auto-fit
 - Dec 26: tip on grid auto-fit
 - Jan 13: gotcha on grid auto-fit
+- Jan 30: note on grid auto-fit
